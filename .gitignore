@@ -1,0 +1,21 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
+
+.env
+*.env.local
+
+# Local databases
+*.sqlite3
+
+node_modules/
+dist/
+*.tsbuildinfo
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
